@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jefrix.learnflags",
+      "sha256_cert_fingerprints": [
+        "66:8E:6A:73:75:00:B7:FF:4F:40:4F:BA:BA:EF:66:45:01:BD:3F:22:2F:D9:52:F4:B7:14:D1:37:8F:D7:32:E5"
+      ]
+    }
+  }
+]
